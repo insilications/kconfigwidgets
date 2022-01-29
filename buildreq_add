@@ -1,17 +1,19 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
 appstream-dev
+buildreq-cmake
 buildreq-kde
+docbook-xml
+extra-cmake-modules-data
 kauth
 kauth-dev
-kcoreaddons-dev
 kcodecs-dev
 kconfig
 kconfig-dev
+kcoreaddons-dev
 kdoctools-dev
 kguiaddons-dev
 ki18n-dev
 kwidgetsaddons-dev
 libxml2
 libxslt
-docbook-xml

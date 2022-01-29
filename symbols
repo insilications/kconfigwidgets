@@ -394,6 +394,8 @@ libKF5ConfigWidgets.so.5:_ZNK8KCModule7buttonsEv
 libKF5ConfigWidgets.so.5:_ZNK8KCModule7configsEv
 libKF5ConfigWidgets.so.5:_ZNK8KCModule9aboutDataEv
 libKF5ConfigWidgets.so.5:_ZNK8KCModule9quickHelpEv
+libKF5ConfigWidgets.so.5:_ZNKSt8__detail20_Prime_rehash_policy11_M_next_bktEm
+libKF5ConfigWidgets.so.5:_ZNKSt8__detail20_Prime_rehash_policy14_M_need_rehashEmmm
 libKF5ConfigWidgets.so.5:_ZThn16_N10KTipDialogD0Ev
 libKF5ConfigWidgets.so.5:_ZThn16_N10KTipDialogD1Ev
 libKF5ConfigWidgets.so.5:_ZThn16_N11KCommandBarD0Ev
@@ -404,3 +406,7 @@ libKF5ConfigWidgets.so.5:_ZThn16_N15KLanguageButtonD0Ev
 libKF5ConfigWidgets.so.5:_ZThn16_N15KLanguageButtonD1Ev
 libKF5ConfigWidgets.so.5:_ZThn16_N8KCModuleD0Ev
 libKF5ConfigWidgets.so.5:_ZThn16_N8KCModuleD1Ev
+libKF5ConfigWidgets.so.5:_ZdaPv
+libKF5ConfigWidgets.so.5:_ZdaPvm
+libKF5ConfigWidgets.so.5:_Znam
+libKF5ConfigWidgets.so.5:__cxa_thread_atexit
